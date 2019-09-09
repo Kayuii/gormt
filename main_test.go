@@ -3,7 +3,7 @@ package main
 import (
 	"testing"
 
-	"github.com/xxjwxc/gormt/data/cmd"
+	"github.com/kayuii/gormt/data/cmd"
 )
 
 func TestDomain(t *testing.T) {

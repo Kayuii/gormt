@@ -108,8 +108,8 @@ github.com/stretchr/testify v1.2.2/go.mod h1:a8OnRcib4nhh0OaRAV+Yts87kKdq0PP7pXf
 github.com/stretchr/testify v1.3.0/go.mod h1:M5WIy9Dh21IEIfnGCwXGc5bZfKNJtfHm1UVUgZn+9EI=
 github.com/ugorji/go/codec v0.0.0-20181204163529-d75b2dcb6bc8/go.mod h1:VFNgLljTbGfSG7qAOspJ7OScBnGdDN/yBr0sguwnwf0=
 github.com/xordataexchange/crypt v0.0.3-0.20170626215501-b2862e3d0a77/go.mod h1:aYKd//L2LvnjZzWKhF00oedf4jCCReLcmhLdhm1A27Q=
-github.com/xxjwxc/gormt v0.0.0-20190712023011-0d1c1ab0dd20 h1:ZLERw6ho9tGpqLxEr1lKq7zreKiNB7ppgEENRr9NwBs=
-github.com/xxjwxc/gormt v0.0.0-20190712023011-0d1c1ab0dd20/go.mod h1:T9ad1meHfg5DpQamR0c+iEfkcmPt4pOChgNnXxGwH1A=
+github.com/kayuii/gormt v0.0.0-20190712023011-0d1c1ab0dd20 h1:ZLERw6ho9tGpqLxEr1lKq7zreKiNB7ppgEENRr9NwBs=
+github.com/kayuii/gormt v0.0.0-20190712023011-0d1c1ab0dd20/go.mod h1:T9ad1meHfg5DpQamR0c+iEfkcmPt4pOChgNnXxGwH1A=
 github.com/xxjwxc/public v0.0.0-20190725114932-898dad5256c2 h1:UBB2ZAe5gcEfmV+zmDi0QaVLp7jjosjMon+eBVjA0R4=
 github.com/xxjwxc/public v0.0.0-20190725114932-898dad5256c2/go.mod h1:AmfXDXC/4+KQ2rxGP5XLZ1GpE17PopBg0FtokxW/kpg=
 github.com/xxjwxc/public v1.0.1 h1:9zvjy5KxQO42gIeR1HbSsVWhuttefh/MJmfcoR+8fWY=

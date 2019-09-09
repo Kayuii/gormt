@@ -5,7 +5,7 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/xxjwxc/gormt/data/config"
+	"github.com/kayuii/gormt/data/config"
 
 	"github.com/xxjwxc/public/tools"
 )
